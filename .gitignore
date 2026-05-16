@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+output/*.csv
+!output/.gitkeep
+data/job-postings/postings.csv
+data/job-postings/postings.csv.zip
+data/resumes/resume.csv
+data/resumes/Resume.zip
+app_detail.txt
+job_it.py
+Pertanyaan_Bisnis.md
+TASKS.md
+main_3.ipynb
