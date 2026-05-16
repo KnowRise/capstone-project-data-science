@@ -1,0 +1,1 @@
+Dikarenakan file data/ itu sangat besar, maka saya tidak menyertakan file tersebut di dalam repository ini. Jika Anda ingin mendapatkan file data/ tersebut, silahkan download file tersebut di link berikut: https://drive.google.com/drive/folders/1xKSIbYPHv0AbNnoLBoJKTE56z1gy4n14?usp=sharing
