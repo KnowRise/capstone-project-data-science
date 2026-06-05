@@ -2,8 +2,8 @@
 *.pyo
 *.pyd
 __pycache__/
-output/*.csv
-!output/.gitkeep
+# output/*.
+# !output/.gitkeep
 data/job-postings/postings.csv
 data/job-postings/postings.csv.zip
 data/resumes/resume.csv

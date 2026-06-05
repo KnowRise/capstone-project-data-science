@@ -1,0 +1,76 @@
+skill,job_mentions
+SQL,2812
+Python,2663
+AWS,1899
+Java,1761
+Azure,1569
+JavaScript,1451
+CI/CD,933
+C#,851
+HTML,836
+Go,811
+Kubernetes,810
+Machine Learning,798
+Excel,797
+Docker,774
+C++,750
+React,747
+Oracle,723
+R,703
+CSS,561
+GCP,561
+ETL,547
+Jenkins,540
+Angular,540
+Microservices,505
+Spring,495
+Terraform,449
+TypeScript,439
+Tableau,435
+Spark,422
+Power BI,379
+Node.js,305
+Scala,300
+MySQL,281
+Spring Boot,272
+Hadoop,218
+PostgreSQL,200
+MongoDB,191
+Databricks,183
+REST API,169
+Selenium,169
+Ruby,160
+Deep Learning,159
+PyTorch,152
+PHP,148
+Swift,145
+TensorFlow,133
+Express,128
+Airflow,127
+Kotlin,123
+GraphQL,116
+Vue,115
+Redis,113
+JUnit,103
+Postman,91
+Bootstrap,88
+Django,84
+React Native,76
+pandas,73
+Rails,73
+Cypress,70
+Flask,66
+NumPy,64
+scikit-learn,62
+Rust,60
+GitHub Actions,59
+Elasticsearch,59
+Laravel,36
+Next.js,36
+Playwright,26
+JMeter,24
+FastAPI,22
+SQLite,18
+pytest,17
+Tailwind,10
+Nuxt,3

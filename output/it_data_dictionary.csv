@@ -1,0 +1,9 @@
+file_name,description
+it_job_postings_filtered.csv,Data lowongan yang sudah difilter ke industri IT
+it_resume_filtered.csv,Data resume yang sudah difilter ke industri IT
+it_job_skill_freq_technical.csv,Frekuensi technical skill pada lowongan IT
+it_resume_skill_freq_technical.csv,Frekuensi technical skill pada resume IT
+it_role_supply_demand.csv,Ringkasan supply-demand per role IT
+it_skill_gap_technical.csv,Gap technical skill per role IT
+it_job_features_model_ready.csv,Dataset lowongan model-ready tanpa label target
+it_resume_features_model_ready.csv,Dataset resume model-ready tanpa label target

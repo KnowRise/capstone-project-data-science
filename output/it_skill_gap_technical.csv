@@ -1,0 +1,399 @@
+role_bucket,skill,job_mentions,resume_mentions,gap_mentions,gap_pct
+Data & Analytics,AWS,393,1.0,392.0,99.74554707379136
+Data & Analytics,Airflow,79,0.0,79.0,100.0
+Data & Analytics,Angular,3,0.0,3.0,100.0
+Data & Analytics,Azure,290,1.0,289.0,99.6551724137931
+Data & Analytics,Bootstrap,2,0.0,2.0,100.0
+Data & Analytics,C#,67,1.0,66.0,98.50746268656717
+Data & Analytics,C++,95,2.0,93.0,97.89473684210527
+Data & Analytics,CI/CD,84,0.0,84.0,100.0
+Data & Analytics,CSS,11,1.0,10.0,90.9090909090909
+Data & Analytics,Cypress,1,0.0,1.0,100.0
+Data & Analytics,Databricks,140,0.0,140.0,100.0
+Data & Analytics,Deep Learning,121,0.0,121.0,100.0
+Data & Analytics,Django,5,0.0,5.0,100.0
+Data & Analytics,Docker,71,0.0,71.0,100.0
+Data & Analytics,ETL,262,1.0,261.0,99.61832061068702
+Data & Analytics,Elasticsearch,11,0.0,11.0,100.0
+Data & Analytics,Excel,368,9.0,359.0,97.55434782608695
+Data & Analytics,Express,17,0.0,17.0,100.0
+Data & Analytics,FastAPI,3,0.0,3.0,100.0
+Data & Analytics,Flask,6,0.0,6.0,100.0
+Data & Analytics,GCP,97,0.0,97.0,100.0
+Data & Analytics,GitHub Actions,5,0.0,5.0,100.0
+Data & Analytics,Go,148,2.0,146.0,98.64864864864865
+Data & Analytics,GraphQL,9,0.0,9.0,100.0
+Data & Analytics,HTML,65,4.0,61.0,93.84615384615384
+Data & Analytics,Hadoop,135,0.0,135.0,100.0
+Data & Analytics,JUnit,2,0.0,2.0,100.0
+Data & Analytics,Java,175,2.0,173.0,98.85714285714286
+Data & Analytics,JavaScript,80,0.0,80.0,100.0
+Data & Analytics,Jenkins,31,0.0,31.0,100.0
+Data & Analytics,Kubernetes,74,0.0,74.0,100.0
+Data & Analytics,Machine Learning,523,0.0,523.0,100.0
+Data & Analytics,Microservices,35,0.0,35.0,100.0
+Data & Analytics,MongoDB,26,0.0,26.0,100.0
+Data & Analytics,MySQL,51,0.0,51.0,100.0
+Data & Analytics,Next.js,1,0.0,1.0,100.0
+Data & Analytics,Node.js,5,0.0,5.0,100.0
+Data & Analytics,NumPy,42,0.0,42.0,100.0
+Data & Analytics,Oracle,115,4.0,111.0,96.52173913043478
+Data & Analytics,PHP,4,1.0,3.0,75.0
+Data & Analytics,Playwright,1,0.0,1.0,100.0
+Data & Analytics,PostgreSQL,27,0.0,27.0,100.0
+Data & Analytics,Power BI,220,0.0,220.0,100.0
+Data & Analytics,PyTorch,113,0.0,113.0,100.0
+Data & Analytics,Python,939,2.0,937.0,99.78700745473908
+Data & Analytics,R,398,2.0,396.0,99.49748743718592
+Data & Analytics,REST API,9,0.0,9.0,100.0
+Data & Analytics,Rails,2,0.0,2.0,100.0
+Data & Analytics,React,10,0.0,10.0,100.0
+Data & Analytics,Redis,6,0.0,6.0,100.0
+Data & Analytics,Ruby,7,0.0,7.0,100.0
+Data & Analytics,Rust,1,0.0,1.0,100.0
+Data & Analytics,SQL,978,6.0,972.0,99.38650306748467
+Data & Analytics,SQLite,2,0.0,2.0,100.0
+Data & Analytics,Scala,167,0.0,167.0,100.0
+Data & Analytics,Spark,272,2.0,270.0,99.26470588235294
+Data & Analytics,Spring,11,1.0,10.0,90.9090909090909
+Data & Analytics,Spring Boot,4,0.0,4.0,100.0
+Data & Analytics,Swift,5,0.0,5.0,100.0
+Data & Analytics,Tableau,327,1.0,326.0,99.69418960244649
+Data & Analytics,TensorFlow,98,0.0,98.0,100.0
+Data & Analytics,Terraform,33,0.0,33.0,100.0
+Data & Analytics,TypeScript,6,0.0,6.0,100.0
+Data & Analytics,pandas,56,0.0,56.0,100.0
+Data & Analytics,pytest,3,0.0,3.0,100.0
+Data & Analytics,scikit-learn,50,0.0,50.0,100.0
+DevOps & Cloud,AWS,376,1.0,375.0,99.7340425531915
+DevOps & Cloud,Airflow,9,0.0,9.0,100.0
+DevOps & Cloud,Angular,17,0.0,17.0,100.0
+DevOps & Cloud,Azure,362,3.0,359.0,99.17127071823204
+DevOps & Cloud,C#,32,0.0,32.0,100.0
+DevOps & Cloud,C++,10,1.0,9.0,90.0
+DevOps & Cloud,CI/CD,246,0.0,246.0,100.0
+DevOps & Cloud,CSS,11,2.0,9.0,81.81818181818183
+DevOps & Cloud,Cypress,1,0.0,1.0,100.0
+DevOps & Cloud,Databricks,6,0.0,6.0,100.0
+DevOps & Cloud,Deep Learning,3,0.0,3.0,100.0
+DevOps & Cloud,Docker,185,0.0,185.0,100.0
+DevOps & Cloud,ETL,15,0.0,15.0,100.0
+DevOps & Cloud,Elasticsearch,15,0.0,15.0,100.0
+DevOps & Cloud,Excel,34,0.0,34.0,100.0
+DevOps & Cloud,Express,14,0.0,14.0,100.0
+DevOps & Cloud,Flask,4,0.0,4.0,100.0
+DevOps & Cloud,GCP,139,0.0,139.0,100.0
+DevOps & Cloud,GitHub Actions,18,0.0,18.0,100.0
+DevOps & Cloud,Go,102,1.0,101.0,99.01960784313727
+DevOps & Cloud,GraphQL,7,0.0,7.0,100.0
+DevOps & Cloud,HTML,19,2.0,17.0,89.47368421052632
+DevOps & Cloud,Hadoop,16,0.0,16.0,100.0
+DevOps & Cloud,JMeter,1,0.0,1.0,100.0
+DevOps & Cloud,JUnit,4,0.0,4.0,100.0
+DevOps & Cloud,Java,108,2.0,106.0,98.14814814814815
+DevOps & Cloud,JavaScript,44,1.0,43.0,97.72727272727273
+DevOps & Cloud,Jenkins,137,0.0,137.0,100.0
+DevOps & Cloud,Kotlin,3,0.0,3.0,100.0
+DevOps & Cloud,Kubernetes,228,0.0,228.0,100.0
+DevOps & Cloud,Machine Learning,32,0.0,32.0,100.0
+DevOps & Cloud,Microservices,61,0.0,61.0,100.0
+DevOps & Cloud,MongoDB,23,0.0,23.0,100.0
+DevOps & Cloud,MySQL,22,0.0,22.0,100.0
+DevOps & Cloud,Next.js,1,0.0,1.0,100.0
+DevOps & Cloud,Node.js,19,0.0,19.0,100.0
+DevOps & Cloud,NumPy,1,0.0,1.0,100.0
+DevOps & Cloud,Oracle,111,4.0,107.0,96.3963963963964
+DevOps & Cloud,PHP,13,1.0,12.0,92.3076923076923
+DevOps & Cloud,PostgreSQL,14,0.0,14.0,100.0
+DevOps & Cloud,Postman,4,0.0,4.0,100.0
+DevOps & Cloud,Power BI,5,0.0,5.0,100.0
+DevOps & Cloud,PyTorch,1,0.0,1.0,100.0
+DevOps & Cloud,Python,281,1.0,280.0,99.644128113879
+DevOps & Cloud,R,42,2.0,40.0,95.23809523809523
+DevOps & Cloud,REST API,11,0.0,11.0,100.0
+DevOps & Cloud,Rails,2,0.0,2.0,100.0
+DevOps & Cloud,React,18,0.0,18.0,100.0
+DevOps & Cloud,Redis,19,0.0,19.0,100.0
+DevOps & Cloud,Ruby,20,0.0,20.0,100.0
+DevOps & Cloud,Rust,2,0.0,2.0,100.0
+DevOps & Cloud,SQL,138,6.0,132.0,95.65217391304348
+DevOps & Cloud,Scala,13,0.0,13.0,100.0
+DevOps & Cloud,Selenium,2,0.0,2.0,100.0
+DevOps & Cloud,Spark,21,0.0,21.0,100.0
+DevOps & Cloud,Spring,21,1.0,20.0,95.23809523809523
+DevOps & Cloud,Spring Boot,11,0.0,11.0,100.0
+DevOps & Cloud,Swift,4,0.0,4.0,100.0
+DevOps & Cloud,Tableau,12,1.0,11.0,91.66666666666666
+DevOps & Cloud,TensorFlow,1,0.0,1.0,100.0
+DevOps & Cloud,Terraform,237,0.0,237.0,100.0
+DevOps & Cloud,TypeScript,10,0.0,10.0,100.0
+DevOps & Cloud,Vue,2,0.0,2.0,100.0
+DevOps & Cloud,pytest,1,0.0,1.0,100.0
+IT Support,AWS,15,0.0,15.0,100.0
+IT Support,Angular,3,0.0,3.0,100.0
+IT Support,Azure,44,0.0,44.0,100.0
+IT Support,C#,3,0.0,3.0,100.0
+IT Support,C++,1,0.0,1.0,100.0
+IT Support,CI/CD,3,0.0,3.0,100.0
+IT Support,CSS,1,0.0,1.0,100.0
+IT Support,Cypress,1,0.0,1.0,100.0
+IT Support,Databricks,1,0.0,1.0,100.0
+IT Support,Docker,5,0.0,5.0,100.0
+IT Support,ETL,3,0.0,3.0,100.0
+IT Support,Excel,78,2.0,76.0,97.43589743589743
+IT Support,Express,3,1.0,2.0,66.66666666666666
+IT Support,GCP,3,0.0,3.0,100.0
+IT Support,Go,35,0.0,35.0,100.0
+IT Support,HTML,5,1.0,4.0,80.0
+IT Support,Hadoop,1,0.0,1.0,100.0
+IT Support,Java,11,0.0,11.0,100.0
+IT Support,JavaScript,14,0.0,14.0,100.0
+IT Support,Jenkins,3,0.0,3.0,100.0
+IT Support,Kubernetes,6,0.0,6.0,100.0
+IT Support,Machine Learning,2,0.0,2.0,100.0
+IT Support,Microservices,2,0.0,2.0,100.0
+IT Support,MongoDB,1,0.0,1.0,100.0
+IT Support,MySQL,4,0.0,4.0,100.0
+IT Support,Node.js,2,0.0,2.0,100.0
+IT Support,Oracle,20,0.0,20.0,100.0
+IT Support,PHP,3,0.0,3.0,100.0
+IT Support,PostgreSQL,3,0.0,3.0,100.0
+IT Support,Postman,3,0.0,3.0,100.0
+IT Support,Power BI,2,0.0,2.0,100.0
+IT Support,Python,21,1.0,20.0,95.23809523809523
+IT Support,R,17,0.0,17.0,100.0
+IT Support,REST API,2,0.0,2.0,100.0
+IT Support,React,7,0.0,7.0,100.0
+IT Support,Ruby,1,0.0,1.0,100.0
+IT Support,SQL,54,2.0,52.0,96.29629629629629
+IT Support,Spark,1,0.0,1.0,100.0
+IT Support,Spring,3,1.0,2.0,66.66666666666666
+IT Support,Spring Boot,1,0.0,1.0,100.0
+IT Support,Swift,31,0.0,31.0,100.0
+IT Support,Tableau,1,0.0,1.0,100.0
+IT Support,Terraform,2,0.0,2.0,100.0
+Mobile Development,AWS,4,0.0,4.0,100.0
+Mobile Development,Angular,3,0.0,3.0,100.0
+Mobile Development,Azure,1,1.0,0.0,0.0
+Mobile Development,C#,1,1.0,0.0,0.0
+Mobile Development,C++,1,0.0,1.0,100.0
+Mobile Development,CI/CD,9,0.0,9.0,100.0
+Mobile Development,CSS,6,1.0,5.0,83.33333333333334
+Mobile Development,Cypress,1,0.0,1.0,100.0
+Mobile Development,Deep Learning,1,0.0,1.0,100.0
+Mobile Development,Docker,2,0.0,2.0,100.0
+Mobile Development,Excel,19,3.0,16.0,84.21052631578947
+Mobile Development,Express,2,0.0,2.0,100.0
+Mobile Development,GCP,8,0.0,8.0,100.0
+Mobile Development,GitHub Actions,1,0.0,1.0,100.0
+Mobile Development,Go,14,0.0,14.0,100.0
+Mobile Development,GraphQL,3,0.0,3.0,100.0
+Mobile Development,HTML,10,3.0,7.0,70.0
+Mobile Development,JUnit,2,0.0,2.0,100.0
+Mobile Development,Java,9,1.0,8.0,88.88888888888889
+Mobile Development,JavaScript,11,1.0,10.0,90.9090909090909
+Mobile Development,Jenkins,1,0.0,1.0,100.0
+Mobile Development,Kotlin,16,0.0,16.0,100.0
+Mobile Development,Kubernetes,1,0.0,1.0,100.0
+Mobile Development,Machine Learning,2,0.0,2.0,100.0
+Mobile Development,Microservices,2,0.0,2.0,100.0
+Mobile Development,Node.js,2,0.0,2.0,100.0
+Mobile Development,Oracle,2,0.0,2.0,100.0
+Mobile Development,PHP,1,2.0,-1.0,0.0
+Mobile Development,Postman,2,0.0,2.0,100.0
+Mobile Development,Python,11,1.0,10.0,90.9090909090909
+Mobile Development,R,30,3.0,27.0,90.0
+Mobile Development,REST API,1,0.0,1.0,100.0
+Mobile Development,React,10,0.0,10.0,100.0
+Mobile Development,React Native,9,0.0,9.0,100.0
+Mobile Development,Ruby,1,0.0,1.0,100.0
+Mobile Development,SQL,3,5.0,-2.0,0.0
+Mobile Development,SQLite,1,0.0,1.0,100.0
+Mobile Development,Selenium,3,0.0,3.0,100.0
+Mobile Development,Swift,10,0.0,10.0,100.0
+Mobile Development,Tableau,2,0.0,2.0,100.0
+Mobile Development,TypeScript,2,0.0,2.0,100.0
+Quality Assurance,AWS,29,0.0,29.0,100.0
+Quality Assurance,Airflow,3,0.0,3.0,100.0
+Quality Assurance,Angular,3,0.0,3.0,100.0
+Quality Assurance,Azure,32,0.0,32.0,100.0
+Quality Assurance,Bootstrap,1,0.0,1.0,100.0
+Quality Assurance,C#,26,0.0,26.0,100.0
+Quality Assurance,C++,20,0.0,20.0,100.0
+Quality Assurance,CI/CD,30,0.0,30.0,100.0
+Quality Assurance,CSS,6,0.0,6.0,100.0
+Quality Assurance,Cypress,23,0.0,23.0,100.0
+Quality Assurance,Deep Learning,2,0.0,2.0,100.0
+Quality Assurance,Django,1,0.0,1.0,100.0
+Quality Assurance,Docker,6,0.0,6.0,100.0
+Quality Assurance,ETL,22,0.0,22.0,100.0
+Quality Assurance,Elasticsearch,1,0.0,1.0,100.0
+Quality Assurance,Excel,115,3.0,112.0,97.3913043478261
+Quality Assurance,Express,6,1.0,5.0,83.33333333333334
+Quality Assurance,GCP,23,0.0,23.0,100.0
+Quality Assurance,Go,35,0.0,35.0,100.0
+Quality Assurance,GraphQL,1,0.0,1.0,100.0
+Quality Assurance,HTML,15,0.0,15.0,100.0
+Quality Assurance,Hadoop,2,0.0,2.0,100.0
+Quality Assurance,JMeter,10,0.0,10.0,100.0
+Quality Assurance,JUnit,7,0.0,7.0,100.0
+Quality Assurance,Java,68,0.0,68.0,100.0
+Quality Assurance,JavaScript,36,0.0,36.0,100.0
+Quality Assurance,Jenkins,28,0.0,28.0,100.0
+Quality Assurance,Kotlin,1,0.0,1.0,100.0
+Quality Assurance,Kubernetes,2,0.0,2.0,100.0
+Quality Assurance,Machine Learning,9,0.0,9.0,100.0
+Quality Assurance,Microservices,5,0.0,5.0,100.0
+Quality Assurance,MySQL,5,0.0,5.0,100.0
+Quality Assurance,Node.js,4,0.0,4.0,100.0
+Quality Assurance,NumPy,1,0.0,1.0,100.0
+Quality Assurance,Oracle,28,1.0,27.0,96.42857142857143
+Quality Assurance,PHP,1,0.0,1.0,100.0
+Quality Assurance,Playwright,7,0.0,7.0,100.0
+Quality Assurance,PostgreSQL,5,0.0,5.0,100.0
+Quality Assurance,Postman,39,0.0,39.0,100.0
+Quality Assurance,Power BI,4,0.0,4.0,100.0
+Quality Assurance,Python,98,0.0,98.0,100.0
+Quality Assurance,R,62,0.0,62.0,100.0
+Quality Assurance,REST API,4,0.0,4.0,100.0
+Quality Assurance,Rails,2,0.0,2.0,100.0
+Quality Assurance,React,9,0.0,9.0,100.0
+Quality Assurance,React Native,1,0.0,1.0,100.0
+Quality Assurance,Redis,1,0.0,1.0,100.0
+Quality Assurance,Ruby,9,0.0,9.0,100.0
+Quality Assurance,SQL,96,5.0,91.0,94.79166666666666
+Quality Assurance,Scala,3,0.0,3.0,100.0
+Quality Assurance,Selenium,100,0.0,100.0,100.0
+Quality Assurance,Spark,3,0.0,3.0,100.0
+Quality Assurance,Spring,5,0.0,5.0,100.0
+Quality Assurance,Spring Boot,2,0.0,2.0,100.0
+Quality Assurance,Swift,1,0.0,1.0,100.0
+Quality Assurance,Tableau,8,0.0,8.0,100.0
+Quality Assurance,Terraform,1,0.0,1.0,100.0
+Quality Assurance,TypeScript,8,0.0,8.0,100.0
+Quality Assurance,Vue,1,0.0,1.0,100.0
+Quality Assurance,pandas,1,0.0,1.0,100.0
+Quality Assurance,pytest,1,0.0,1.0,100.0
+Security,AWS,112,0.0,112.0,100.0
+Security,Angular,2,0.0,2.0,100.0
+Security,Azure,100,0.0,100.0,100.0
+Security,Bootstrap,2,0.0,2.0,100.0
+Security,C#,6,0.0,6.0,100.0
+Security,C++,12,1.0,11.0,91.66666666666666
+Security,CI/CD,23,0.0,23.0,100.0
+Security,CSS,3,0.0,3.0,100.0
+Security,Docker,11,0.0,11.0,100.0
+Security,ETL,1,0.0,1.0,100.0
+Security,Excel,23,1.0,22.0,95.65217391304348
+Security,Express,1,1.0,0.0,0.0
+Security,GCP,19,0.0,19.0,100.0
+Security,Go,38,0.0,38.0,100.0
+Security,HTML,5,1.0,4.0,80.0
+Security,Hadoop,1,0.0,1.0,100.0
+Security,Java,30,0.0,30.0,100.0
+Security,JavaScript,23,0.0,23.0,100.0
+Security,Jenkins,10,0.0,10.0,100.0
+Security,Kubernetes,16,0.0,16.0,100.0
+Security,Machine Learning,15,0.0,15.0,100.0
+Security,Microservices,4,0.0,4.0,100.0
+Security,MongoDB,2,0.0,2.0,100.0
+Security,MySQL,4,0.0,4.0,100.0
+Security,Node.js,4,0.0,4.0,100.0
+Security,NumPy,2,0.0,2.0,100.0
+Security,Oracle,13,1.0,12.0,92.3076923076923
+Security,PHP,4,0.0,4.0,100.0
+Security,Postman,1,0.0,1.0,100.0
+Security,Power BI,2,0.0,2.0,100.0
+Security,PyTorch,1,0.0,1.0,100.0
+Security,Python,106,0.0,106.0,100.0
+Security,R,25,0.0,25.0,100.0
+Security,REST API,1,0.0,1.0,100.0
+Security,Rails,2,0.0,2.0,100.0
+Security,React,6,0.0,6.0,100.0
+Security,Redis,2,0.0,2.0,100.0
+Security,Ruby,20,0.0,20.0,100.0
+Security,Rust,4,0.0,4.0,100.0
+Security,SQL,22,2.0,20.0,90.9090909090909
+Security,Spark,1,0.0,1.0,100.0
+Security,Spring,2,0.0,2.0,100.0
+Security,Swift,4,1.0,3.0,75.0
+Security,TensorFlow,3,0.0,3.0,100.0
+Security,Terraform,22,0.0,22.0,100.0
+Security,TypeScript,4,0.0,4.0,100.0
+Security,Vue,1,0.0,1.0,100.0
+Security,pandas,2,0.0,2.0,100.0
+Software Engineering,AWS,970,3.0,967.0,99.69072164948454
+Software Engineering,Airflow,36,0.0,36.0,100.0
+Software Engineering,Angular,509,0.0,509.0,100.0
+Software Engineering,Azure,740,0.0,740.0,100.0
+Software Engineering,Bootstrap,83,4.0,79.0,95.18072289156626
+Software Engineering,C#,716,5.0,711.0,99.30167597765363
+Software Engineering,C++,611,6.0,605.0,99.01800327332242
+Software Engineering,CI/CD,538,0.0,538.0,100.0
+Software Engineering,CSS,523,8.0,515.0,98.47036328871893
+Software Engineering,Cypress,43,0.0,43.0,100.0
+Software Engineering,Databricks,36,0.0,36.0,100.0
+Software Engineering,Deep Learning,32,0.0,32.0,100.0
+Software Engineering,Django,78,0.0,78.0,100.0
+Software Engineering,Docker,494,0.0,494.0,100.0
+Software Engineering,ETL,244,2.0,242.0,99.18032786885246
+Software Engineering,Elasticsearch,32,0.0,32.0,100.0
+Software Engineering,Excel,160,8.0,152.0,95.0
+Software Engineering,Express,85,2.0,83.0,97.6470588235294
+Software Engineering,FastAPI,19,0.0,19.0,100.0
+Software Engineering,Flask,56,0.0,56.0,100.0
+Software Engineering,GCP,272,0.0,272.0,100.0
+Software Engineering,GitHub Actions,35,0.0,35.0,100.0
+Software Engineering,Go,439,4.0,435.0,99.08883826879271
+Software Engineering,GraphQL,96,0.0,96.0,100.0
+Software Engineering,HTML,717,9.0,708.0,98.74476987447699
+Software Engineering,Hadoop,63,0.0,63.0,100.0
+Software Engineering,JMeter,13,0.0,13.0,100.0
+Software Engineering,JUnit,88,1.0,87.0,98.86363636363636
+Software Engineering,Java,1360,7.0,1353.0,99.48529411764706
+Software Engineering,JavaScript,1243,8.0,1235.0,99.35639581657281
+Software Engineering,Jenkins,330,1.0,329.0,99.69696969696969
+Software Engineering,Kotlin,103,0.0,103.0,100.0
+Software Engineering,Kubernetes,483,0.0,483.0,100.0
+Software Engineering,Laravel,36,0.0,36.0,100.0
+Software Engineering,Machine Learning,215,0.0,215.0,100.0
+Software Engineering,Microservices,396,2.0,394.0,99.4949494949495
+Software Engineering,MongoDB,139,1.0,138.0,99.28057553956835
+Software Engineering,MySQL,195,9.0,186.0,95.38461538461539
+Software Engineering,Next.js,34,0.0,34.0,100.0
+Software Engineering,Node.js,269,0.0,269.0,100.0
+Software Engineering,NumPy,18,0.0,18.0,100.0
+Software Engineering,Nuxt,3,0.0,3.0,100.0
+Software Engineering,Oracle,434,16.0,418.0,96.31336405529954
+Software Engineering,PHP,122,6.0,116.0,95.08196721311475
+Software Engineering,Playwright,18,0.0,18.0,100.0
+Software Engineering,PostgreSQL,151,1.0,150.0,99.33774834437085
+Software Engineering,Postman,42,0.0,42.0,100.0
+Software Engineering,Power BI,146,0.0,146.0,100.0
+Software Engineering,PyTorch,37,0.0,37.0,100.0
+Software Engineering,Python,1207,2.0,1205.0,99.83429991714996
+Software Engineering,R,129,2.0,127.0,98.44961240310077
+Software Engineering,REST API,141,0.0,141.0,100.0
+Software Engineering,Rails,65,0.0,65.0,100.0
+Software Engineering,React,687,0.0,687.0,100.0
+Software Engineering,React Native,66,0.0,66.0,100.0
+Software Engineering,Redis,85,0.0,85.0,100.0
+Software Engineering,Ruby,102,0.0,102.0,100.0
+Software Engineering,Rust,53,0.0,53.0,100.0
+Software Engineering,SQL,1521,20.0,1501.0,98.68507560815253
+Software Engineering,SQLite,15,0.0,15.0,100.0
+Software Engineering,Scala,117,0.0,117.0,100.0
+Software Engineering,Selenium,64,2.0,62.0,96.875
+Software Engineering,Spark,124,0.0,124.0,100.0
+Software Engineering,Spring,453,1.0,452.0,99.77924944812362
+Software Engineering,Spring Boot,254,1.0,253.0,99.60629921259843
+Software Engineering,Swift,90,0.0,90.0,100.0
+Software Engineering,Tableau,85,1.0,84.0,98.82352941176471
+Software Engineering,Tailwind,10,0.0,10.0,100.0
+Software Engineering,TensorFlow,31,0.0,31.0,100.0
+Software Engineering,Terraform,154,0.0,154.0,100.0
+Software Engineering,TypeScript,409,0.0,409.0,100.0
+Software Engineering,Vue,111,0.0,111.0,100.0
+Software Engineering,pandas,14,0.0,14.0,100.0
+Software Engineering,pytest,12,0.0,12.0,100.0
+Software Engineering,scikit-learn,12,0.0,12.0,100.0

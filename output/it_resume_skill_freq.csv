@@ -1,0 +1,141 @@
+role_bucket,skill,resume_mentions
+Data & Analytics,Project Management,10
+Data & Analytics,Communication,9
+Data & Analytics,Excel,9
+Data & Analytics,Linux,9
+Data & Analytics,Problem Solving,6
+Data & Analytics,SQL,6
+Data & Analytics,HTML,4
+Data & Analytics,Oracle,4
+Data & Analytics,C++,2
+Data & Analytics,Go,2
+Data & Analytics,Java,2
+Data & Analytics,Python,2
+Data & Analytics,R,2
+Data & Analytics,Spark,2
+Data & Analytics,AWS,1
+Data & Analytics,Azure,1
+Data & Analytics,C#,1
+Data & Analytics,CSS,1
+Data & Analytics,ETL,1
+Data & Analytics,Kanban,1
+Data & Analytics,PHP,1
+Data & Analytics,Spring,1
+Data & Analytics,Tableau,1
+DevOps & Cloud,Project Management,8
+DevOps & Cloud,Communication,7
+DevOps & Cloud,Linux,7
+DevOps & Cloud,SQL,6
+DevOps & Cloud,Oracle,4
+DevOps & Cloud,Problem Solving,4
+DevOps & Cloud,Azure,3
+DevOps & Cloud,CSS,2
+DevOps & Cloud,HTML,2
+DevOps & Cloud,Java,2
+DevOps & Cloud,R,2
+DevOps & Cloud,AWS,1
+DevOps & Cloud,Agile,1
+DevOps & Cloud,C++,1
+DevOps & Cloud,Go,1
+DevOps & Cloud,JavaScript,1
+DevOps & Cloud,PHP,1
+DevOps & Cloud,Python,1
+DevOps & Cloud,Scrum,1
+DevOps & Cloud,Spring,1
+DevOps & Cloud,Tableau,1
+IT Support,Communication,8
+IT Support,Project Management,6
+IT Support,Problem Solving,3
+IT Support,Excel,2
+IT Support,SQL,2
+IT Support,Express,1
+IT Support,HTML,1
+IT Support,Linux,1
+IT Support,Python,1
+IT Support,Scrum,1
+IT Support,Spring,1
+Mobile Development,Communication,7
+Mobile Development,Project Management,7
+Mobile Development,Linux,5
+Mobile Development,SQL,5
+Mobile Development,Excel,3
+Mobile Development,HTML,3
+Mobile Development,Problem Solving,3
+Mobile Development,R,3
+Mobile Development,MySQL,2
+Mobile Development,PHP,2
+Mobile Development,Azure,1
+Mobile Development,C#,1
+Mobile Development,CSS,1
+Mobile Development,Java,1
+Mobile Development,JavaScript,1
+Mobile Development,Python,1
+Mobile Development,Vue,1
+Other IT,Communication,6
+Other IT,Excel,4
+Other IT,Project Management,3
+Other IT,SQL,3
+Other IT,HTML,2
+Other IT,PHP,2
+Other IT,Spring,2
+Other IT,C#,1
+Other IT,C++,1
+Other IT,Go,1
+Other IT,Java,1
+Other IT,Oracle,1
+Other IT,Problem Solving,1
+Quality Assurance,Project Management,7
+Quality Assurance,Communication,5
+Quality Assurance,SQL,5
+Quality Assurance,Excel,3
+Quality Assurance,Linux,3
+Quality Assurance,Problem Solving,3
+Quality Assurance,Agile,1
+Quality Assurance,Express,1
+Quality Assurance,Oracle,1
+Quality Assurance,Scrum,1
+Security,Communication,6
+Security,Project Management,3
+Security,SQL,2
+Security,C++,1
+Security,Excel,1
+Security,Express,1
+Security,HTML,1
+Security,Oracle,1
+Security,Problem Solving,1
+Security,Swift,1
+Software Engineering,SQL,20
+Software Engineering,Communication,17
+Software Engineering,Oracle,16
+Software Engineering,Project Management,15
+Software Engineering,HTML,9
+Software Engineering,MySQL,9
+Software Engineering,CSS,8
+Software Engineering,Excel,8
+Software Engineering,JavaScript,8
+Software Engineering,Linux,8
+Software Engineering,Agile,7
+Software Engineering,Java,7
+Software Engineering,C++,6
+Software Engineering,PHP,6
+Software Engineering,C#,5
+Software Engineering,Bootstrap,4
+Software Engineering,Go,4
+Software Engineering,Scrum,4
+Software Engineering,AWS,3
+Software Engineering,Problem Solving,3
+Software Engineering,ETL,2
+Software Engineering,Express,2
+Software Engineering,Microservices,2
+Software Engineering,Python,2
+Software Engineering,R,2
+Software Engineering,Selenium,2
+Software Engineering,Git,1
+Software Engineering,JUnit,1
+Software Engineering,Jenkins,1
+Software Engineering,Kanban,1
+Software Engineering,MongoDB,1
+Software Engineering,PostgreSQL,1
+Software Engineering,Spring,1
+Software Engineering,Spring Boot,1
+Software Engineering,Tableau,1

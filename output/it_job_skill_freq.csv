@@ -1,0 +1,453 @@
+role_bucket,skill,job_mentions
+Data & Analytics,SQL,978
+Data & Analytics,Python,939
+Data & Analytics,Communication,802
+Data & Analytics,Machine Learning,523
+Data & Analytics,R,398
+Data & Analytics,AWS,393
+Data & Analytics,Excel,368
+Data & Analytics,Tableau,327
+Data & Analytics,Agile,293
+Data & Analytics,Azure,290
+Data & Analytics,Spark,272
+Data & Analytics,ETL,262
+Data & Analytics,Power BI,220
+Data & Analytics,Project Management,192
+Data & Analytics,Java,175
+Data & Analytics,Scala,167
+Data & Analytics,Go,148
+Data & Analytics,Databricks,140
+Data & Analytics,Hadoop,135
+Data & Analytics,Problem Solving,130
+Data & Analytics,Deep Learning,121
+Data & Analytics,Oracle,115
+Data & Analytics,PyTorch,113
+Data & Analytics,TensorFlow,98
+Data & Analytics,GCP,97
+Data & Analytics,C++,95
+Data & Analytics,CI/CD,84
+Data & Analytics,Git,84
+Data & Analytics,JavaScript,80
+Data & Analytics,Airflow,79
+Data & Analytics,Kubernetes,74
+Data & Analytics,Docker,71
+Data & Analytics,C#,67
+Data & Analytics,HTML,65
+Data & Analytics,Linux,58
+Data & Analytics,pandas,56
+Data & Analytics,MySQL,51
+Data & Analytics,Scrum,50
+Data & Analytics,scikit-learn,50
+Data & Analytics,NumPy,42
+Data & Analytics,Microservices,35
+Data & Analytics,Terraform,33
+Data & Analytics,Jenkins,31
+Data & Analytics,PostgreSQL,27
+Data & Analytics,MongoDB,26
+Data & Analytics,Express,17
+Data & Analytics,CSS,11
+Data & Analytics,Elasticsearch,11
+Data & Analytics,Spring,11
+Data & Analytics,React,10
+Data & Analytics,GraphQL,9
+Data & Analytics,REST API,9
+Data & Analytics,Kanban,8
+Data & Analytics,Ruby,7
+Data & Analytics,Flask,6
+Data & Analytics,Redis,6
+Data & Analytics,TypeScript,6
+Data & Analytics,Django,5
+Data & Analytics,GitHub Actions,5
+Data & Analytics,Node.js,5
+Data & Analytics,Swift,5
+Data & Analytics,PHP,4
+Data & Analytics,Spring Boot,4
+Data & Analytics,Angular,3
+Data & Analytics,FastAPI,3
+Data & Analytics,pytest,3
+Data & Analytics,Bootstrap,2
+Data & Analytics,JUnit,2
+Data & Analytics,Rails,2
+Data & Analytics,SQLite,2
+Data & Analytics,Cypress,1
+Data & Analytics,Next.js,1
+Data & Analytics,Playwright,1
+Data & Analytics,Rust,1
+DevOps & Cloud,AWS,376
+DevOps & Cloud,Azure,362
+DevOps & Cloud,Communication,356
+DevOps & Cloud,Python,281
+DevOps & Cloud,CI/CD,246
+DevOps & Cloud,Terraform,237
+DevOps & Cloud,Kubernetes,228
+DevOps & Cloud,Linux,187
+DevOps & Cloud,Docker,185
+DevOps & Cloud,Agile,184
+DevOps & Cloud,GCP,139
+DevOps & Cloud,SQL,138
+DevOps & Cloud,Jenkins,137
+DevOps & Cloud,Git,113
+DevOps & Cloud,Oracle,111
+DevOps & Cloud,Java,108
+DevOps & Cloud,Go,102
+DevOps & Cloud,Microservices,61
+DevOps & Cloud,Project Management,61
+DevOps & Cloud,Problem Solving,55
+DevOps & Cloud,Scrum,48
+DevOps & Cloud,JavaScript,44
+DevOps & Cloud,R,42
+DevOps & Cloud,Excel,34
+DevOps & Cloud,C#,32
+DevOps & Cloud,Machine Learning,32
+DevOps & Cloud,MongoDB,23
+DevOps & Cloud,MySQL,22
+DevOps & Cloud,Spark,21
+DevOps & Cloud,Spring,21
+DevOps & Cloud,Ruby,20
+DevOps & Cloud,HTML,19
+DevOps & Cloud,Node.js,19
+DevOps & Cloud,Redis,19
+DevOps & Cloud,GitHub Actions,18
+DevOps & Cloud,React,18
+DevOps & Cloud,Angular,17
+DevOps & Cloud,Hadoop,16
+DevOps & Cloud,ETL,15
+DevOps & Cloud,Elasticsearch,15
+DevOps & Cloud,Express,14
+DevOps & Cloud,PostgreSQL,14
+DevOps & Cloud,PHP,13
+DevOps & Cloud,Scala,13
+DevOps & Cloud,Kanban,12
+DevOps & Cloud,Tableau,12
+DevOps & Cloud,CSS,11
+DevOps & Cloud,REST API,11
+DevOps & Cloud,Spring Boot,11
+DevOps & Cloud,C++,10
+DevOps & Cloud,TypeScript,10
+DevOps & Cloud,Airflow,9
+DevOps & Cloud,GraphQL,7
+DevOps & Cloud,Databricks,6
+DevOps & Cloud,Power BI,5
+DevOps & Cloud,Flask,4
+DevOps & Cloud,JUnit,4
+DevOps & Cloud,Postman,4
+DevOps & Cloud,Swift,4
+DevOps & Cloud,Deep Learning,3
+DevOps & Cloud,Kotlin,3
+DevOps & Cloud,Rails,2
+DevOps & Cloud,Rust,2
+DevOps & Cloud,Selenium,2
+DevOps & Cloud,Vue,2
+DevOps & Cloud,Cypress,1
+DevOps & Cloud,JMeter,1
+DevOps & Cloud,Next.js,1
+DevOps & Cloud,NumPy,1
+DevOps & Cloud,PyTorch,1
+DevOps & Cloud,TensorFlow,1
+DevOps & Cloud,pytest,1
+IT Support,Communication,319
+IT Support,Excel,78
+IT Support,Problem Solving,73
+IT Support,SQL,54
+IT Support,Azure,44
+IT Support,Linux,40
+IT Support,Go,35
+IT Support,Swift,31
+IT Support,Project Management,27
+IT Support,Python,21
+IT Support,Oracle,20
+IT Support,R,17
+IT Support,Agile,16
+IT Support,AWS,15
+IT Support,JavaScript,14
+IT Support,Java,11
+IT Support,React,7
+IT Support,Git,6
+IT Support,Kubernetes,6
+IT Support,Docker,5
+IT Support,HTML,5
+IT Support,MySQL,4
+IT Support,Angular,3
+IT Support,C#,3
+IT Support,CI/CD,3
+IT Support,ETL,3
+IT Support,Express,3
+IT Support,GCP,3
+IT Support,Jenkins,3
+IT Support,PHP,3
+IT Support,PostgreSQL,3
+IT Support,Postman,3
+IT Support,Scrum,3
+IT Support,Spring,3
+IT Support,Machine Learning,2
+IT Support,Microservices,2
+IT Support,Node.js,2
+IT Support,Power BI,2
+IT Support,REST API,2
+IT Support,Terraform,2
+IT Support,C++,1
+IT Support,CSS,1
+IT Support,Cypress,1
+IT Support,Databricks,1
+IT Support,Hadoop,1
+IT Support,MongoDB,1
+IT Support,Ruby,1
+IT Support,Spark,1
+IT Support,Spring Boot,1
+IT Support,Tableau,1
+Mobile Development,Communication,121
+Mobile Development,R,30
+Mobile Development,Project Management,23
+Mobile Development,Agile,20
+Mobile Development,Excel,19
+Mobile Development,Kotlin,16
+Mobile Development,Go,14
+Mobile Development,JavaScript,11
+Mobile Development,Python,11
+Mobile Development,HTML,10
+Mobile Development,Problem Solving,10
+Mobile Development,React,10
+Mobile Development,Swift,10
+Mobile Development,CI/CD,9
+Mobile Development,Java,9
+Mobile Development,React Native,9
+Mobile Development,Scrum,9
+Mobile Development,GCP,8
+Mobile Development,Git,7
+Mobile Development,CSS,6
+Mobile Development,AWS,4
+Mobile Development,Angular,3
+Mobile Development,GraphQL,3
+Mobile Development,SQL,3
+Mobile Development,Selenium,3
+Mobile Development,Docker,2
+Mobile Development,Express,2
+Mobile Development,JUnit,2
+Mobile Development,Machine Learning,2
+Mobile Development,Microservices,2
+Mobile Development,Node.js,2
+Mobile Development,Oracle,2
+Mobile Development,Postman,2
+Mobile Development,Tableau,2
+Mobile Development,TypeScript,2
+Mobile Development,Azure,1
+Mobile Development,C#,1
+Mobile Development,C++,1
+Mobile Development,Cypress,1
+Mobile Development,Deep Learning,1
+Mobile Development,GitHub Actions,1
+Mobile Development,Jenkins,1
+Mobile Development,Kanban,1
+Mobile Development,Kubernetes,1
+Mobile Development,PHP,1
+Mobile Development,REST API,1
+Mobile Development,Ruby,1
+Mobile Development,SQLite,1
+Quality Assurance,Communication,442
+Quality Assurance,Agile,154
+Quality Assurance,Excel,115
+Quality Assurance,Selenium,100
+Quality Assurance,Python,98
+Quality Assurance,SQL,96
+Quality Assurance,Project Management,71
+Quality Assurance,Problem Solving,69
+Quality Assurance,Java,68
+Quality Assurance,R,62
+Quality Assurance,Scrum,62
+Quality Assurance,Linux,48
+Quality Assurance,Postman,39
+Quality Assurance,JavaScript,36
+Quality Assurance,Go,35
+Quality Assurance,Azure,32
+Quality Assurance,CI/CD,30
+Quality Assurance,AWS,29
+Quality Assurance,Jenkins,28
+Quality Assurance,Oracle,28
+Quality Assurance,C#,26
+Quality Assurance,Cypress,23
+Quality Assurance,GCP,23
+Quality Assurance,ETL,22
+Quality Assurance,C++,20
+Quality Assurance,Git,20
+Quality Assurance,HTML,15
+Quality Assurance,JMeter,10
+Quality Assurance,Machine Learning,9
+Quality Assurance,React,9
+Quality Assurance,Ruby,9
+Quality Assurance,Tableau,8
+Quality Assurance,TypeScript,8
+Quality Assurance,JUnit,7
+Quality Assurance,Playwright,7
+Quality Assurance,CSS,6
+Quality Assurance,Docker,6
+Quality Assurance,Express,6
+Quality Assurance,Microservices,5
+Quality Assurance,MySQL,5
+Quality Assurance,PostgreSQL,5
+Quality Assurance,Spring,5
+Quality Assurance,Kanban,4
+Quality Assurance,Node.js,4
+Quality Assurance,Power BI,4
+Quality Assurance,REST API,4
+Quality Assurance,Airflow,3
+Quality Assurance,Angular,3
+Quality Assurance,Scala,3
+Quality Assurance,Spark,3
+Quality Assurance,Deep Learning,2
+Quality Assurance,Hadoop,2
+Quality Assurance,Kubernetes,2
+Quality Assurance,Rails,2
+Quality Assurance,Spring Boot,2
+Quality Assurance,Bootstrap,1
+Quality Assurance,Django,1
+Quality Assurance,Elasticsearch,1
+Quality Assurance,GraphQL,1
+Quality Assurance,Kotlin,1
+Quality Assurance,NumPy,1
+Quality Assurance,PHP,1
+Quality Assurance,React Native,1
+Quality Assurance,Redis,1
+Quality Assurance,Swift,1
+Quality Assurance,Terraform,1
+Quality Assurance,Vue,1
+Quality Assurance,pandas,1
+Quality Assurance,pytest,1
+Security,Communication,258
+Security,AWS,112
+Security,Python,106
+Security,Azure,100
+Security,Linux,83
+Security,Agile,56
+Security,Project Management,46
+Security,Go,38
+Security,Java,30
+Security,R,25
+Security,CI/CD,23
+Security,Excel,23
+Security,JavaScript,23
+Security,Problem Solving,23
+Security,SQL,22
+Security,Terraform,22
+Security,Ruby,20
+Security,GCP,19
+Security,Kubernetes,16
+Security,Machine Learning,15
+Security,Scrum,14
+Security,Oracle,13
+Security,C++,12
+Security,Docker,11
+Security,Jenkins,10
+Security,Git,9
+Security,Kanban,7
+Security,C#,6
+Security,React,6
+Security,HTML,5
+Security,Microservices,4
+Security,MySQL,4
+Security,Node.js,4
+Security,PHP,4
+Security,Rust,4
+Security,Swift,4
+Security,TypeScript,4
+Security,CSS,3
+Security,TensorFlow,3
+Security,Angular,2
+Security,Bootstrap,2
+Security,MongoDB,2
+Security,NumPy,2
+Security,Power BI,2
+Security,Rails,2
+Security,Redis,2
+Security,Spring,2
+Security,pandas,2
+Security,ETL,1
+Security,Express,1
+Security,Hadoop,1
+Security,Postman,1
+Security,PyTorch,1
+Security,REST API,1
+Security,Spark,1
+Security,Vue,1
+Software Engineering,Communication,1728
+Software Engineering,SQL,1521
+Software Engineering,Agile,1394
+Software Engineering,Java,1360
+Software Engineering,JavaScript,1243
+Software Engineering,Python,1207
+Software Engineering,AWS,970
+Software Engineering,Azure,740
+Software Engineering,HTML,717
+Software Engineering,C#,716
+Software Engineering,React,687
+Software Engineering,Git,645
+Software Engineering,C++,611
+Software Engineering,CI/CD,538
+Software Engineering,CSS,523
+Software Engineering,Angular,509
+Software Engineering,Docker,494
+Software Engineering,Kubernetes,483
+Software Engineering,Spring,453
+Software Engineering,Go,439
+Software Engineering,Oracle,434
+Software Engineering,Scrum,417
+Software Engineering,TypeScript,409
+Software Engineering,Microservices,396
+Software Engineering,Linux,353
+Software Engineering,Jenkins,330
+Software Engineering,GCP,272
+Software Engineering,Node.js,269
+Software Engineering,Spring Boot,254
+Software Engineering,Problem Solving,248
+Software Engineering,ETL,244
+Software Engineering,Machine Learning,215
+Software Engineering,MySQL,195
+Software Engineering,Project Management,175
+Software Engineering,Excel,160
+Software Engineering,Terraform,154
+Software Engineering,PostgreSQL,151
+Software Engineering,Power BI,146
+Software Engineering,REST API,141
+Software Engineering,MongoDB,139
+Software Engineering,R,129
+Software Engineering,Spark,124
+Software Engineering,PHP,122
+Software Engineering,Scala,117
+Software Engineering,Vue,111
+Software Engineering,Kotlin,103
+Software Engineering,Ruby,102
+Software Engineering,GraphQL,96
+Software Engineering,Swift,90
+Software Engineering,JUnit,88
+Software Engineering,Express,85
+Software Engineering,Redis,85
+Software Engineering,Tableau,85
+Software Engineering,Bootstrap,83
+Software Engineering,Django,78
+Software Engineering,React Native,66
+Software Engineering,Rails,65
+Software Engineering,Selenium,64
+Software Engineering,Hadoop,63
+Software Engineering,Kanban,57
+Software Engineering,Flask,56
+Software Engineering,Rust,53
+Software Engineering,Cypress,43
+Software Engineering,Postman,42
+Software Engineering,PyTorch,37
+Software Engineering,Airflow,36
+Software Engineering,Databricks,36
+Software Engineering,Laravel,36
+Software Engineering,GitHub Actions,35
+Software Engineering,Next.js,34
+Software Engineering,Deep Learning,32
+Software Engineering,Elasticsearch,32
+Software Engineering,TensorFlow,31
+Software Engineering,FastAPI,19
+Software Engineering,NumPy,18
+Software Engineering,Playwright,18
+Software Engineering,SQLite,15
+Software Engineering,pandas,14
+Software Engineering,JMeter,13
+Software Engineering,pytest,12
+Software Engineering,scikit-learn,12
+Software Engineering,Tailwind,10
+Software Engineering,Nuxt,3
